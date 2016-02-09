@@ -38,7 +38,7 @@ main {
 
 .placeholder {
   background: rgba(100,100,100,.5);
-  border: 5px solid white;
+  border: 5px solid red;
   padding: 20px;
   min-height: 40px;
   box-sizing: border-box;
